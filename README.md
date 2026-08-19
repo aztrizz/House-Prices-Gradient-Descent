@@ -27,8 +27,6 @@ The dataset (`regression_dataset.csv`) contains the following columns:
 | `neighborhood_score` | A neighborhood desirability score |
 | `price_thousands` | Target variable — sale price, in thousands |
 
-> **Note:** The notebook currently loads the data from a local Windows path (`C:/Users/.../regression_dataset.csv`). Update this path to point to your own copy of the dataset before running.
-
 ## Approach
 
 ### 1. Baseline model
