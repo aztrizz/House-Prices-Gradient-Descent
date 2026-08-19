@@ -16,7 +16,7 @@ The custom gradient descent implementation is cross-checked against scikit-learn
 
 ## Dataset
 
-The dataset (`regression_dataset.csv`, not included in this repo) contains the following columns:
+The dataset (`regression_dataset.csv`) contains the following columns:
 
 | Column | Description |
 |---|---|
