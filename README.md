@@ -59,7 +59,7 @@ In both cases, the custom gradient descent solution matches scikit-learn's close
 ```
 .
 ├── House_Prices_Regression.ipynb   # Main notebook
-└── regression_dataset.csv          # Dataset (not included — see Dataset section)
+└── regression_dataset.csv          # Dataset 
 ```
 
 ## Requirements
